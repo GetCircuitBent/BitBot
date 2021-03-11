@@ -9,6 +9,7 @@ This is a small, simplified clone of the Death by Audio Robot guitar pedal, stri
   * Output Jack/Speaker (pin 2)
   * Effect Output (pin 3)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_ONI_Kui6XI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Demo:
+https://youtu.be/_ONI_Kui6XI
 
 #### Not required or expected at all, but if you like it you can use the Sponsor button to buy me a beer!
