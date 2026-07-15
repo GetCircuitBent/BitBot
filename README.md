@@ -30,3 +30,8 @@ This is a small, simplified clone of the Death by Audio Robot guitar pedal, stri
 https://youtu.be/_ONI_Kui6XI
 
 #### Not required or expected at all, but if you like it you can use the Sponsor button to buy me a beer!
+
+
+---
+
+Copyright (C) 2021 Get Circuit Bent LLC. Licensed under the [GNU General Public License v3.0](LICENSE). Contact: info@getcircuitbent.com
